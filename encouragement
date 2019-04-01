@@ -1,0 +1,15 @@
+M  | Our core value is COS concept.
+C1 | Please check ur hmwk insantly after they were done.
+C2 | Nvr return true when Answer selector is `null`
+C3 | Tag & sort errs to TL;DR<ToBeSolved>
+O1 | Table Stru<Upper>[Plan/Schema/WekPlan]
+O2 | Bag Stru[(L-useful),(R-textbks)]
+O3 | Desk Stru(Up->Dn)<L>[RecFiles/TL;DRs/MoudlePapers]
+O4 | Desk Stru<R> [NarrFiles]
+O5 | DO put back every fle aft use.
+S1 | Summary aft gting errs understood.
+S2 | Smry aft check<To TL;DR::ToBeSolved>
+S3 | Smry aft mod UnitTest.
+Q1 | 我们已经走过万水千山，但我们还要不停跋山涉水
+Q2 | 坚持TD不动摇。
+Q3 | 慢下来。
