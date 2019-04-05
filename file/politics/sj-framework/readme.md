@@ -1,1 +1,2 @@
-Politics Frmwork [Page 3](https://cs8.camscanner.com/sync/download_resize_jpg?folder_name=CamScanner_Page&file_name=NQdHyJfyTVtYQKaUWTrVQTLd.jpg&_t=1554474740&pixel=2048)
+Politics Frmwork [All](https://www.camscanner.com/share/show?encrypt_id=MHg1M2JiYTg4YQ%3D%3D&sid=794E78D1650748C9YC8d1AU6)
+Politics SJ-view [All](https://www.camscanner.com/share/show?encrypt_id=MHg1M2JiYTg4YQ%3D%3D&sid=568E1A2C21444056Jf7h1AFL)
